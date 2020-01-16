@@ -11,7 +11,7 @@
  */
 
 /** MySQL hostname */
-define("DB_HOST", '157.245.53.122');
+define("DB_HOST", '157.245.53.122:8090');
 
 /** MySQL database username */
 define("DB_USER", 'obhy');
@@ -20,7 +20,7 @@ define("DB_USER", 'obhy');
 define("DB_PASS", 'kambing2008');
 
 /** MySQL database name */
-define("DB_NAME", 'dbstream');
+define("DB_NAME", 'obhy');
 
 /** PHP Error Reporting */
 define("DEBUG", false);
