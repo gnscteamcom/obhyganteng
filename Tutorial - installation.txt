@@ -1,0 +1,35 @@
+
+Installation
+
+1. upload and extract proxy 1.7.1.zip and extract in public_html/proxylocated
+2. Create Mysql database and user database
+2. upload db.sql in phpmyadmin in your new database
+3. Replace URL in phpmyadmin - Settings - https://demo.pecintadrama.com by its domain, where the script is located:
+
+Example: https://www.yourdomain.com/proxylocaded
+
+3. Config user, database and other dates in proxy\config.php
+
+4. Go to Login:
+
+https://www.yourdomain.com/proxylocaded/admin
+
+User : demo@demo.com
+Pass : 12345678
+
+Modify pass in manage users
+
+How to change SKID AD (VAST) video ads:
+
+1. Open in your host...script\templates\jwplayer\template.php
+2. Change Line 34 or/or Line 39, please enter the URL XML Tag Your VAST Ad
+
+Definition of displacement in ad settings:
+
+pre: the ad appears before the video is played
+post: the ad appears after the video is finished
+50%: the ad appears in the middle of the video.
+
+OR Delete VAST ADS.
+
+Thanks for your purchase... :)
