@@ -11,16 +11,16 @@
  */
 
 /** MySQL hostname */
-define("DB_HOST", 'localhost');
+define("DB_HOST", '157.245.53.122');
 
 /** MySQL database username */
-define("DB_USER", 'voucher24jam_demo');
+define("DB_USER", 'root');
 
 /** MySQL database password */
-define("DB_PASS", '!Q@W#E$R');
+define("DB_PASS", 'eecad221ee128f00fce88ab7cf13331c9ce7d85833794d6a');
 
 /** MySQL database name */
-define("DB_NAME", 'voucher24jam_demo');
+define("DB_NAME", 'dbstream');
 
 /** PHP Error Reporting */
 define("DEBUG", false);
