@@ -14,10 +14,10 @@
 define("DB_HOST", '157.245.53.122');
 
 /** MySQL database username */
-define("DB_USER", 'root');
+define("DB_USER", 'obhy');
 
 /** MySQL database password */
-define("DB_PASS", 'eecad221ee128f00fce88ab7cf13331c9ce7d85833794d6a');
+define("DB_PASS", 'kambing2008');
 
 /** MySQL database name */
 define("DB_NAME", 'dbstream');
