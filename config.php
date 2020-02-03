@@ -11,16 +11,16 @@
  */
 
 /** MySQL hostname */
-define("DB_HOST", '157.245.53.122:8090');
+define("DB_HOST", '104.248.151.171');
 
 /** MySQL database username */
-define("DB_USER", 'obhy');
+define("DB_USER", 'remote');
 
 /** MySQL database password */
 define("DB_PASS", 'kambing2008');
 
 /** MySQL database name */
-define("DB_NAME", 'obhy');
+define("DB_NAME", 'juicy');
 
 /** PHP Error Reporting */
 define("DEBUG", false);
