@@ -11,7 +11,7 @@
  */
 
 /** MySQL hostname */
-define("DB_HOST", '104.248.151.171');
+define("DB_HOST", '104.248.151.171:8090/phpmyadmin');
 
 /** MySQL database username */
 define("DB_USER", 'remote');
